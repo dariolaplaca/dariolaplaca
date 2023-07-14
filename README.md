@@ -29,6 +29,7 @@
 📬 I am always eager to connect with fellow developers and individuals who **share a passion for software development** or maybe some other interests as well. If you have any questions, want to collaborate on a project, or simply want to say hello, feel free to reach out to me. You can find my contact information below:
 
 ***Email: dariolaplacadev@gmail.com
+
 LinkedIn: www.linkedin.com/in/dario-la-placa-dev/***
 
 
