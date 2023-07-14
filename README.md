@@ -28,9 +28,9 @@
 
 📬 I am always eager to connect with fellow developers and individuals who **share a passion for software development** or maybe some other interests as well. If you have any questions, want to collaborate on a project, or simply want to say hello, feel free to reach out to me. You can find my contact information below:
 
-***Email: dariolaplacadev@gmail.com
+***Email: dariolaplacadev@gmail.com***
 
-LinkedIn: www.linkedin.com/in/dario-la-placa-dev/***
+***LinkedIn: www.linkedin.com/in/dario-la-placa-dev/***
 
 
 🎈 **Thank you** for visiting my GitHub profile! I hope you find something useful or inspiring in my projects. Remember, software development is a journey of continuous learning, and I am excited to embark on this adventure alongside you. ***Happy coding!*** 💻
